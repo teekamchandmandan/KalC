@@ -1,2 +1,2 @@
-# calculator
-A small project to practise skills.
+# KalC 
+A small calculator project to practise skills.
